@@ -23,3 +23,28 @@ is likely to leave a company using Machine Learning.
 
 ## Machine Learning Algorithms
 Logistic Regression
+
+## Model Evaluation
+
+The model was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+- ROC-AUC Score
+
+### Results
+
+- Accuracy: 62.59%
+- Precision: 15.85%
+- Recall: 63.72%
+- F1-Score: 25.38%
+- ROC-AUC: 0.6823
+
+## Conclusion
+
+This project demonstrates how Machine Learning
+can be used to predict customer churn using
+Logistic Regression.
