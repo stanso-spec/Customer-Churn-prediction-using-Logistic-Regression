@@ -22,4 +22,4 @@ is likely to leave a company using Machine Learning.
 7. Churn Prediction
 
 ## Machine Learning Algorithms
- Binary Classification
+Logistic Regression
