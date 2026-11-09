@@ -1,4 +1,4 @@
-# Customer-Churn-prediction-using-Classification
+# Customer-Churn-prediction-using-Logistic Regression
 
 ## Overview
 This project predicts whether a customer
